@@ -121,7 +121,7 @@ public class LoginActivity extends AppCompatActivity {
         }
 
         if(password.length() < 6){
-            Toast.makeText(this, "Using a weak password", Toast.LENGTH_SHORT).show();
+            Toast.makeText(this, "Usando password debil", Toast.LENGTH_SHORT).show();
             return;
         }
 
@@ -326,6 +326,7 @@ public class LoginActivity extends AppCompatActivity {
                 });
     }
 
+    /* final codigo facebook */
 
     @Override
     public void onActivityResult(int requestCode, int resultCode, Intent data) {

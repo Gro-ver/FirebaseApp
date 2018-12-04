@@ -1,4 +1,0 @@
-ruta de aplicacion web semana12:
-
-"firebase_url": "https://fir-app-4997b.firebaseio.com"
--------------------------------------------------------------

@@ -99,10 +99,8 @@
                 facebook:com_facebook_login_text="Ingresar con Facebook"
                 facebook:com_facebook_logout_text="Conectando..."/>
 
-
         </LinearLayout>
 
     </LinearLayout>
-
 
 </LinearLayout>
